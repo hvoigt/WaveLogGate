@@ -1,5 +1,7 @@
 # WavelogGate
 
+Test
+
 WavelogGate is a desktop gateway application that connects amateur radio logging software (WSJT-X, FLDigi) and radio control hardware (FLRig, Hamlib) to the [Wavelog](https://github.com/wavelog/wavelog) web logging platform.
 
 Built with Go + [Wails v2](https://wails.io) + Svelte. Ships as a single self-contained binary — no runtime dependencies.
